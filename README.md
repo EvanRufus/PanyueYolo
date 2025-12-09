@@ -1,11 +1,21 @@
-# 👵👴 YOLOv5-Fall-Detection-Research
 # 👵👴 YOLOv5 跌倒检测研究项目
+# 👵👴 YOLOv5-Fall-Detection-Research
 
 ## 🎯 项目概览 (Project Overview)
 
 本项目是基于 **PyTorch** 深度学习框架和 **YOLOv5** 目标检测模型开展的**人体跌倒检测研究**，旨在探索计算机视觉在行为识别和智能安全监控领域的应用。本项目的核心目标是训练一个高鲁棒性的模型，并对其性能进行严谨的评估和优化。
 
-This project is a **human fall detection research project** based on the **PyTorch** deep learning framework and **YOLOv5** object detection model. It aims to explore the application of computer vision in behavior recognition and intelligent safety monitoring. The core objective is to train a robust model, rigorously evaluate its performance, and serve as the **[Capstone/Thesis Project]** for **[Your University Name]**.
+This project is a **human fall detection research project** based on the **PyTorch** deep learning framework and **YOLOv5** object detection model. It aims to explore the application of computer vision in behavior recognition and intelligent safety monitoring. The core objective is to train a robust model, rigorously evaluate its performance.
+
+> ⚠️ 本项目正在持续开发中，主要用于学习和毕业设计探索。如果你也计划将此项目作为毕业设计，可以先点击 **Watch** 关注更新。  
+> 欢迎对计算机视觉、目标检测或 YOLO 系列模型感兴趣的朋友 **关注、⭐ Star 或 Fork** 本仓库。  
+> 我会持续更新功能、训练技巧和演示效果，让我们一起见证项目的成长！
+
+> ⚠️ This project is under active development, primarily for learning and graduation thesis exploration.  
+> If you plan to use this project for your graduation thesis, consider clicking **Watch** to stay updated.  
+> Friends interested in computer vision, object detection, or YOLO models are welcome to **follow, ⭐ Star, or Fork** this repository.  
+> New features, training tips, and demo results will be updated regularly—let's witness the growth of the project together!
+
 
 ## ✨ 研究重点与贡献 (Research Focus & Contributions)
 
